@@ -17,7 +17,7 @@ Variables:
 
 	in general, put _(whatever the type of data it is)
 
-		bool: is_facing_left
+		bool: is_facing_left, has_object, etc. (all yes no question)
 		int: speed_int
 		float: speed_float
 		double: speed_double
