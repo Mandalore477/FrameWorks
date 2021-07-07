@@ -1,0 +1,21 @@
+Function - captial Letters, not "func" needed, GetName, SetHealth
+create a comment explaing the functions purpose and effects, Input/Output and Global variables used
+/*purpose: check player's current health
+Uses player_health */
+// Outputs player's health
+	
+Variables - Underscored names starts with lowercase, digits are allowed, first_name, store_2_opened, player_spawn_point
+if referencing a transform use the word point
+Variable kinds- bool - is_(variable name), is_player_wanted
+int- (variable name)_int, speed_int
+float - (variable name)_float, speed_float
+double - (variable name)_double, height_double
+
+Game Objects - lower case letter start, child objects start with name of parent object, player, player_camera
+
+Short Variable names - for things like rigidbodies use rb or rgbd, 
+
+Scripts - Camel Case and underscore , Player_Controller, name should refrence what it's affecting (player) and what the effect is (Controller)
+
+
+
